@@ -1,0 +1,1 @@
+# DynamoDB-segments-scan
